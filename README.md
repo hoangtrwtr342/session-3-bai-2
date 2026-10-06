@@ -5,6 +5,7 @@ BÀI 2 SESSION 3
 1. Báo cáo phân tích
  Tại sao đường dẫn tuyệt đối bị lỗi?
  Vì đường dẫn tuyệt đối gắn cố định tên ổ đĩa/tên User của máy bạn (Ví dụ: C:\Users\Ban\...). Sang máy bạn thân có tên ổ đĩa/User khác nên Python không tìm thấy file.
+
 2.Luồng IPO (Nạp từ Storage vào RAM):
   Input (Nhập): Đọc code và ảnh từ Ổ cứng (Storage) nạp lên RAM.
   Process (Xử lý): CPU lấy dữ liệu từ RAM để giải mã ảnh và chạy giao diện.
