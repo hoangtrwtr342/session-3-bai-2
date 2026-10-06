@@ -17,6 +17,9 @@ BÀI 2 SESSION 3
   Viết lại chuẩn: './assets/logo.png' (Bê sang máy nào cũng tự tìm đúng thư mục assets cạnh file code).
 
 3 bước giảm lag (hạ RAM 98%) cho máy bạn thân:
+
     * Mở Task Manager, tắt bớt các ứng dụng ngốn RAM (như Chrome, app chạy ngầm).
+    
     * Kiểm tra code Python: Tránh nạp ảnh dung lượng quá lớn cùng lúc hoặc dính vòng lặp vô tận làm tràn RAM.
+    
     * Restart máy tính để xóa sạch toàn bộ bộ nhớ đệm và tiến trình rác bị kẹt trong RAM
